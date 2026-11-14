@@ -41,3 +41,7 @@ Este documento foi escrito para publicação, sem copiar histórico, credenciais
 
 ## Contato
 [Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.bakedcharm.chatgpt.site)
+
+
+## Captura real da página pública
+![vyntriva-tech-portfolio — página pública capturada em 14/11/2026](assets/Vyntriva_Real.jpg)
