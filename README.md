@@ -1,47 +1,33 @@
 # Vyntriva Tech
 
-## Apresentação e objetivo
-Apresentar serviços digitais e demonstrações para pequenos negócios.
+Site bilíngue de serviços digitais e demonstrações para pequenos negócios.
 
-## Participação real e inteligência artificial
+## Demonstração oficial
+
+https://vyntriva-tech.onrender.com/
+
+Hospedado no Render Static Site gratuito, com HTTPS e deploy automático da branch main do repositório operacional privado. A hospedagem anterior foi preservada.
+
+## Participação e inteligência artificial
+
 Daniel de Omena Loubaque é responsável pelos objetivos, decisões de produto e acompanhamento do projeto. Desenvolvimento e documentação contam com IA; não se afirma autoria manual exclusiva nem experiência formal como desenvolvedor contratado.
 
-## Tecnologias utilizadas
-Python, HTML, CSS e JavaScript. Tecnologias identificadas no projeto não equivalem a domínio avançado individual.
+## Implementação
 
-## Arquitetura
-build_site.py gera páginas estáticas em dist; versões PT e EN; assets compartilhados.
+HTML, CSS, JavaScript e build Node.js. A fonte aprovada é copiada para public sem reconstruir o design roxo, foto do CEO, contatos e portfólio. Tecnologias presentes no projeto não equivalem a domínio avançado individual.
 
-## Funcionalidades
-Serviços, portfólio, três demos conceituais, contato e briefing por WhatsApp/e-mail.
+Português e inglês, escolha automática pelo idioma do navegador, escolha manual persistente, navegação e briefing por WhatsApp/e-mail. Não há geolocalização por IP no Render estático.
 
-## Demonstração
-https://vyntriva-tech.bakedcharm.chatgpt.site
+O formulário prepara uma mensagem para revisão e envio externo. Não envia automaticamente, nem comprova recebimento apenas ao abrir WhatsApp ou e-mail. Teste no navegador confirmou preparação do pedido e links dos dois canais com dados sintéticos, sem envio.
 
-## Capturas de tela
-As capturas devem mostrar páginas públicas, sem sessões, tokens ou dados de terceiros. Consulte as imagens reais disponíveis no pacote do portfólio; nenhuma imagem sintética é apresentada como captura.
+## Histórico e limites
 
-## Instalação
-Este estudo não contém o código privado. No original: python3 build_site.py; servir dist com python3 -m http.server 8000 --directory dist.
-
-## Testes e limites de validação
-Build e arquivos estáticos identificados. Testes funcionais de formulário não executados nesta fase. Demos são projetos conceituais, não clientes comprovados.
-
-## Desafios técnicos
-Oferecer navegação bilíngue e explicar corretamente o envio do briefing.
-
-## Soluções implementadas
-Páginas PT/EN e formulário que prepara conteúdo para envio externo; não há comprovação de recebimento apenas ao abrir WhatsApp/e-mail.
-
-## Próximas melhorias
-Ampliar testes de navegação e acessibilidade; medir solicitações reais sem prometer resultados comerciais.
-
-## Segurança
-Este documento foi escrito para publicação, sem copiar histórico, credenciais ou dados comerciais privados. Os originais privados permanecem privados. Auditoria documental em 14/11/2026; não constitui garantia de ausência de vulnerabilidades.
+O histórico Git permite recuperar versões por reversão de commit. Demos são projetos conceituais, não clientes comprovados. Este estudo público não contém o código operacional privado, credenciais ou dados comerciais privados. Não constitui auditoria de segurança.
 
 ## Contato
-[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.bakedcharm.chatgpt.site)
 
+[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.onrender.com/)
 
-## Captura real da página pública
-![vyntriva-tech-portfolio — página pública capturada em 14/11/2026](assets/Vyntriva_Real.jpg)
+## Captura histórica real
+
+![Página pública capturada em 14/11/2026, antes da migração Render](assets/Vyntriva_Real.jpg)
