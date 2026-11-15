@@ -31,3 +31,12 @@ O histórico Git permite recuperar versões por reversão de commit. Demos são 
 ## Captura histórica real
 
 ![Página pública capturada em 14/11/2026, antes da migração Render](assets/Vyntriva_Real.jpg)
+
+
+## Software House & Digital Solutions — 15/11/2026
+
+Este projeto integra o portfólio técnico da Vyntriva Tech, conduzida pelo fundador e CEO Daniel Loubaque com apoio de IA. Serviços de Front-end, Back-end, Full Stack, automação e integrações são definidos por escopo e viabilidade; esta documentação não afirma domínio avançado nem resultados comerciais.
+
+Site oficial: https://vyntriva-tech.onrender.com/ · Estudos técnicos: https://vyntriva-tech.onrender.com/portfolio.html
+
+Atualização preparada: 15 categorias de serviços PT/EN, briefing com funcionalidades/prazo/preferência e laboratório demonstrativo de CRM, estoque e agenda. Dados do laboratório são fictícios e existem só na memória da aba; não é uma plataforma SaaS de produção.
