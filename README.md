@@ -40,3 +40,8 @@ Este projeto integra o portfólio técnico da Vyntriva Tech, conduzida pelo fund
 Site oficial: https://vyntriva-tech.onrender.com/ · Estudos técnicos: https://vyntriva-tech.onrender.com/portfolio.html
 
 Atualização preparada: 15 categorias de serviços PT/EN, briefing com funcionalidades/prazo/preferência e laboratório demonstrativo de CRM, estoque e agenda. Dados do laboratório são fictícios e existem só na memória da aba; não é uma plataforma SaaS de produção.
+
+
+## Página inicial — 22/11/2026
+
+As versões em português e inglês agora começam pela apresentação do fundador e preservam os projetos reais. A seção de três demonstrações conceituais foi retirada das duas páginas iniciais; os arquivos históricos permanecem preservados. Publicação confirmada no Render no commit 6383e49a647da3e7a44fc4329f061fb07cebc3df.
