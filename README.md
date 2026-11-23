@@ -1,6 +1,6 @@
 # Vyntriva Tech
 
-Site bilíngue de serviços digitais e demonstrações para pequenos negócios.
+Site bilíngue de serviços digitais para pequenos negócios, com canais de orçamento e casos de projetos reais.
 
 ## Demonstração oficial
 
@@ -18,11 +18,11 @@ HTML, CSS, JavaScript e build Node.js. A fonte aprovada é copiada para public s
 
 Português e inglês, escolha automática pelo idioma do navegador, escolha manual persistente, navegação e briefing por WhatsApp/e-mail. Não há geolocalização por IP no Render estático.
 
-O formulário prepara uma mensagem para revisão e envio externo. Não envia automaticamente, nem comprova recebimento apenas ao abrir WhatsApp ou e-mail. Teste no navegador confirmou preparação do pedido e links dos dois canais com dados sintéticos, sem envio.
+O site oferece duas formas de contato: (1) solicitação de orçamento por formulário Google Forms, com armazenamento privado das respostas e notificação por e-mail ao proprietário; (2) formulário local que prepara um briefing para o visitante revisar e enviar por WhatsApp ou e-mail, sem envio automático. O teste técnico do formulário de recebimento foi confirmado em 22/11/2026, com resposta armazenada e notificação recebida; não se trata de um cliente ou contrato. Abrir WhatsApp ou e-mail, por si só, não comprova recebimento.
 
 ## Histórico e limites
 
-O histórico Git permite recuperar versões por reversão de commit. Demos são projetos conceituais, não clientes comprovados. Este estudo público não contém o código operacional privado, credenciais ou dados comerciais privados. Não constitui auditoria de segurança.
+O histórico Git permite recuperar versões por reversão de commit. Demonstrações históricas, quando identificadas como conceituais, não representam clientes comprovados. A seção de demos conceituais foi retirada das páginas iniciais PT/EN em 22/11. Este estudo público não contém o código operacional privado, credenciais ou dados comerciais privados. Não constitui auditoria de segurança.
 
 ## Contato
 
@@ -45,3 +45,7 @@ Atualização preparada: 15 categorias de serviços PT/EN, briefing com funciona
 ## Página inicial — 22/11/2026
 
 As versões em português e inglês agora começam pela apresentação do fundador e preservam os projetos reais. A seção de três demonstrações conceituais foi retirada das duas páginas iniciais; os arquivos históricos permanecem preservados. Publicação confirmada no Render no commit 6383e49a647da3e7a44fc4329f061fb07cebc3df.
+
+## Captação de orçamentos — 22/11/2026
+
+A [página de orçamento PT](https://vyntriva-tech.onrender.com/orcamento.html) e a [versão EN](https://vyntriva-tech.onrender.com/en/quote.html) apresentam formulário de solicitação com nome/empresa, e-mail, serviço, descrição e consentimento. O cadastro do teste foi rotulado como **validação técnica**, não como oportunidade comercial. Registro da implementação: [PR #13](https://github.com/Danielloubaque/vyntriva-tech/pull/13). O formulário é operado por Google Forms; os dados de respostas não ficam disponíveis publicamente. Ainda falta inspeção visual móvel completa, e não foi alegada aquisição de clientes pagantes.
